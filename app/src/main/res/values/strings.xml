@@ -9,7 +9,7 @@
     <string name="alamat1">Alamat Siswa :</string>>
     <string name="telepon1">Telepon Siswa :</string>>
     <string name="required_field">*harus diisi</string>
-    <string name="btn_summit">Submit</string>>
+    <string name="btn_submit">Submit</string>>
     <string name="detail_siswa">Detail Data Siswa</string>
     <string name="edit_siswa">Edit Siswa</string>
     <string name="back">Back</string>
